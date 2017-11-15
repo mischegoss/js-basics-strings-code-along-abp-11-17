@@ -1,2 +1,2 @@
 const currentUser = 'Grace Hopper';
-// Write your code in this file!
+onst welcomeMessage = 'Welcome to Flatbook, ';// Write your code in this file!
